@@ -6,6 +6,7 @@ body {
     background-color: #19191B;
     font-family: 'Nunito Sans', sans-serif;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 a {
